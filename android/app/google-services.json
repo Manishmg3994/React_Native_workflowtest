@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "421441234043",
+    "firebase_url": "https://laundryeasy-iawebtech-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "laundryeasy-iawebtech",
+    "storage_bucket": "laundryeasy-iawebtech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421441234043:android:e10872d796f9833a79aede",
+        "android_client_info": {
+          "package_name": "com.laundryeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421441234043-ak7rasp2nos7nichiuohc4ps0cp8r8m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVs3NURSjp0eHwIgggnSi6617BnUZC_Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421441234043-ak7rasp2nos7nichiuohc4ps0cp8r8m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421441234043-fhmindpcm1imh9124leu95gfr5vfbe1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.laundryeasy.app.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421441234043:android:6734af28614e088479aede",
+        "android_client_info": {
+          "package_name": "in.laundryeasy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421441234043-ak7rasp2nos7nichiuohc4ps0cp8r8m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVs3NURSjp0eHwIgggnSi6617BnUZC_Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421441234043-ak7rasp2nos7nichiuohc4ps0cp8r8m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421441234043-fhmindpcm1imh9124leu95gfr5vfbe1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.laundryeasy.app.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
